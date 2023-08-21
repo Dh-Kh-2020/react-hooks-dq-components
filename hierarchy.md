@@ -1,0 +1,10 @@
+-- App
+    -- SideMenue
+        -- Logo
+        -- MenuLink
+        -- Search
+    -- TopMenue
+    -- MainContent
+        -- GenerPicker
+        -- AlbumList
+            -- AlbumCard
